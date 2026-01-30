@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Website
+# 🛒 E-Commerce Website 
 
 A full-stack E-Commerce web application that allows users to browse products, add items to cart, place orders, and manage purchases.  
 This project is built to demonstrate **strong fundamentals**, clean architecture, and real-world workflow — while still being **student-level and easy to understand**.
